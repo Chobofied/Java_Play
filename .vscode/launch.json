@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch play",
+            "request": "launch",
+            "mainClass": "play",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuestionA",
+            "request": "launch",
+            "mainClass": "QuestionA",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubble",
+            "request": "launch",
+            "mainClass": "bubble",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch counting",
+            "request": "launch",
+            "mainClass": "counting",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch testgui",
+            "request": "launch",
+            "mainClass": "gui.testgui",
+            "projectName": "helloworld_1b892eba"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuestionB",
+            "request": "launch",
+            "mainClass": "javabook.Ch2.QuestionB",
+            "projectName": "helloworld_1b892eba"
+        }
+    ]
+}
